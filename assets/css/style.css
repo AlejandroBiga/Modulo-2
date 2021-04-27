@@ -1,0 +1,25 @@
+    /* Comentarios en el estilo*/
+
+    /* Selector etiquetas h2*/
+    h2{
+        color: blue;
+        }
+
+    /* Selector clase circular--square */
+    .circular--square {
+        border-radius: 50%;
+    }
+
+    /* Selector ID  */
+    #parrafo--especial {
+        font-family: sans-serif;
+        font-size: 16px;
+        color: red;
+    }       
+
+    /* Selector clase circular--square */
+    /*
+    .encabezado--especial {
+        color: green;
+    } 
+        */
